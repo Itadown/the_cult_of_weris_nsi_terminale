@@ -4,3 +4,5 @@ This is my final term project of NSI (a course subject in high school (I don't k
 There is a little story and I used pytmx, pyscroll and pygame for coding this game. We spent a lot of time for doing this and we are a bit proud.
 
 The instruction was simply to do a game, as we want.
+
+This game is really not optimized at all and requires a rather good computer.
