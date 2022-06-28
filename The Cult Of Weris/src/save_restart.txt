@@ -1,0 +1,6 @@
+COPIEZ-COLLEZ LES LIGNES D'EN DESSOUS POUR RESTART (en ne prenant aucun espace vide) :
+
+PositionJoueur=[2914,3440]
+MapJoueur=weris_debut
+Image=player_no_armor
+ImageCote=down

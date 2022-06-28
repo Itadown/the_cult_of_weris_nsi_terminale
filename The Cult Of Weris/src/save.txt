@@ -1,0 +1,4 @@
+PositionJoueur=[2914,3440]
+MapJoueur=weris_debut
+Image=player_no_armor
+ImageCote=down
